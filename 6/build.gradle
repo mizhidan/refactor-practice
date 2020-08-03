@@ -11,6 +11,4 @@ repositories {
     jcenter()
 }
 
-test {
-    useJUnitPlatform()
-}
+
